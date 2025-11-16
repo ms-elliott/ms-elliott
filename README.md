@@ -1,6 +1,4 @@
-## Hello world! I'm Eri O :)
-
-<!--
+## Hello world! I'm Eri O👋🏻
 **ms-elliott/ms-elliott** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
