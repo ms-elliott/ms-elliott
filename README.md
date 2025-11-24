@@ -2,4 +2,6 @@
 
 ![Eri's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=ms-elliott&theme=gotham&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
+
 https://github-profile-trophy.vercel.app/?username=ms-elliott&theme=kimbie_dark
