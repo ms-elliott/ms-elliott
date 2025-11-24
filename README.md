@@ -2,4 +2,4 @@
 
 ![Eri's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
 
-https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=kimbie_dark
+https://github-profile-trophy.vercel.app/?username=ms-elliott&theme=kimbie_dark
