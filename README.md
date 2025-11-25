@@ -1,12 +1,11 @@
-<div align="center" width="50">  
+<div align="center" width="50">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=500&size=38&pause=1000&color=4076AD&center=true&vCenter=true&width=900&height=200&lines=Hello+world!;I'm+Eri+O.;Software+engineer+%2F+Web+development+enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=500&size=38&pause=1000&color=398E83&center=true&vCenter=true&width=900&height=200&lines=Hello+world!;I'm+Eri+O.;Software+engineer+%2F+Web+development+enthusiast)](https://git.io/typing-svg)
 
 </div>
 <div width="50">
 
-[![Github](https://img.shields.io/badge/--FFFFFF?style=social&logo=github&label=Follow%20ms-elliott)](https://github.com/ms-elliott)
-
+　　　　　　　　　　[![Github](https://img.shields.io/badge/--FFFFFF?style=social&logo=github&label=Follow%20ms-elliott)](https://github.com/ms-elliott)
 </div>
 <div align="center" width="50">
   
