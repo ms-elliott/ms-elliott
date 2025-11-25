@@ -36,9 +36,9 @@
 
 ---
 
-- 🏋🏻‍♂️ My Recent Work : [MEOW HOME](https://github.com/ms-elliott/meowhome)
-- 📚 Currently Dive Into : Vue.js 
-- 💭 Planned Next Work : AI Web App (Python × Vue.js) 
+- 🏋🏻‍♂️ My Recent Work : &nbsp;&nbsp; [MEOW HOME](https://github.com/ms-elliott/meowhome) (Laravel × Bootstrap × AWS × Docker  etc.)
+- 📚 Currently Dive Into : &nbsp;&nbsp; Vue.js 
+- 💭 Planned Next Work : &nbsp;&nbsp; AI Web App (Python × Vue.js) 
   
 
 　　　　　　　　　　[![Github](https://img.shields.io/badge/--FFFFFF?style=social&logo=github&label=Follow%20ms-elliott)](https://github.com/ms-elliott)
