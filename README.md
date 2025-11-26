@@ -39,7 +39,7 @@
 - 🏋🏻‍♂️ My recent work : &nbsp;&nbsp; **[MEOW HOME](https://github.com/ms-elliott/meowhome)** (Laravel × Bootstrap × AWS × Docker  etc.)
 - 📚 Currently dive into : &nbsp;&nbsp; **Vue.js** 
 - 💭 Planned next work : &nbsp;&nbsp; **AI Web App** (Python × Vue.js)
-- 🍫 Fun fact : There are research findings that eating chocolate brings you happiness as effective as you are arounded by 5 hot guys😎   
+- 🍫 Fun fact : Eating chocolate brings you happiness as effective as you are arounded by 5 hot guys😎   
 </div>
 <br><br><br>
 <div align="center" width="50">
