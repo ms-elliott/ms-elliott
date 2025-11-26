@@ -5,7 +5,7 @@
 </div>
 <div width="50">
   
-### 👩🏻‍💻 Skill Set
+### 👩🏻‍💻  Skill Set
 <a href=""><img src="https://img.shields.io/badge/C%23(WPF,WinForms)-512BD4?style=flat&logo=cplusplus&logoColor=white"/></a>
 <a href=""><img src="https://img.shields.io/badge/php-777BB4?style=flat&logo=php&logoColor=white"/></a>
 <a href=""><img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=Laravel&logoColor=white"/></a>
@@ -35,14 +35,13 @@
 <p>Comming Up   🔜　<a href=""><img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white"/></a></p>
 
 ---
-
-- 🏋🏻‍♂️ My Recent Work : &nbsp;&nbsp; [MEOW HOME](https://github.com/ms-elliott/meowhome) (Laravel × Bootstrap × AWS × Docker  etc.)
-- 📚 Currently Dive Into : &nbsp;&nbsp; Vue.js 
-- 💭 Planned Next Work : &nbsp;&nbsp; AI Web App (Python × Vue.js) 
-  
-
-　　　　　　　　　　[![Github](https://img.shields.io/badge/--FFFFFF?style=social&logo=github&label=Follow%20ms-elliott)](https://github.com/ms-elliott)
+[![Github](https://img.shields.io/badge/--FFFFFF?style=social&logo=github&label=Follow%20ms-elliott)](https://github.com/ms-elliott)
+- 🏋🏻‍♂️ My recent work : &nbsp;&nbsp; **[MEOW HOME](https://github.com/ms-elliott/meowhome)** (Laravel × Bootstrap × AWS × Docker  etc.)
+- 📚 Currently dive into : &nbsp;&nbsp; **Vue.js** 
+- 💭 Planned next work : &nbsp;&nbsp; **AI Web App** (Python × Vue.js)
+- 🍫 Fun fact : There are research findings that eating chocolate brings you happiness as effective as you are arounded by 5 hot guys😎   
 </div>
+<br><br><br>
 <div align="center" width="50">
   
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ms-elliott&theme=gotham)
@@ -50,4 +49,8 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ms-elliott&theme=gotham) &nbsp;&nbsp;&nbsp; ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ms-elliott&theme=gotham)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ms-elliott&theme=discord)](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=nord)
+
+<a href=""><img src="https://cultofthepartyparrot.com/parrots/hd/angelparrot.gif" width="50"/></a><a href=""><img src="https://cultofthepartyparrot.com/parrots/hd/angelparrot.gif" width="50"/></a><a href=""><img src="https://cultofthepartyparrot.com/parrots/hd/angelparrot.gif" width="50"/></a><a href=""><img src="https://cultofthepartyparrot.com/parrots/hd/angelparrot.gif" width="50"/></a><a href=""><img src="https://cultofthepartyparrot.com/parrots/hd/angelparrot.gif" width="50"/></a><br>
+[Find your Party Parrot](https://cultofthepartyparrot.com/)
+
 </div>
