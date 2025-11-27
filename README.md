@@ -55,7 +55,7 @@
 [](
 [![trophy](https://github-profile-trophy.vercel.app/?username=ms-elliott&theme=flat)](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=nord)
 )
-<br><br><br>
-<a href=""><img src="https://cultofthepartyparrot.com/parrots/hd/angelparrot.gif" width="70"/></a><a href=""><img src="https://cultofthepartyparrot.com/parrots/hd/angelparrot.gif" width="70"/></a><a href=""><img src="https://cultofthepartyparrot.com/parrots/hd/angelparrot.gif" width="70"/></a><a href=""><img src="https://cultofthepartyparrot.com/parrots/hd/angelparrot.gif" width="70"/></a><a href=""><img src="https://cultofthepartyparrot.com/parrots/hd/angelparrot.gif" width="70"/></a><br>
+<br>
+<a href=""><img src="https://cultofthepartyparrot.com/parrots/hd/angelparrot.gif" width="50"/></a><a href=""><img src="https://cultofthepartyparrot.com/parrots/hd/angelparrot.gif" width="50"/></a><a href=""><img src="https://cultofthepartyparrot.com/parrots/hd/angelparrot.gif" width="50"/></a><a href=""><img src="https://cultofthepartyparrot.com/parrots/hd/angelparrot.gif" width="50"/></a><a href=""><img src="https://cultofthepartyparrot.com/parrots/hd/angelparrot.gif" width="50"/></a><br>
 [Find your Party Parrot](https://cultofthepartyparrot.com/)
 </div>
