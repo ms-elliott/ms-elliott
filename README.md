@@ -44,11 +44,9 @@
 </div>
 <div align="center" width="50">
   
-| <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ms-elliott&hide_border=true" alt="GitHub Streak" /></a> | <a href="https://github.com/ms-elliott/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ms-elliott&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ----- | ----- |
-
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ms-elliott&theme=buefy)　|
-| ----- |
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ms-elliott" alt="GitHub Streak" /></a><br>
+<a href="https://github.com/ms-elliott/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ms-elliott&layout=compact&theme=buefy" /></a><br>
+<kbd><a href="https://github.com/ms-elliott/github-readme-stats"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ms-elliott&theme=buefy" /></a></kbd>
 
 <!-- <a href="https://github.com/ms-elliott/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ms-elliott&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Eri O's github stats" /></a> -->
 [](
