@@ -32,30 +32,32 @@
 <a href=""><img src="https://img.shields.io/badge/Apache-D22128?style=flat&logo=apache&logoColor=white"/></a>
 <a href=""><img src="https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white"/></a>
 <a href=""><img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/></a>
-<p>Comming Up   🔜　<a href=""><img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white"/></a></p>
+<p>Comming Up   　🔜　<a href=""><img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white"/></a></p>
 
 ---
-[![Github](https://img.shields.io/badge/--FFFFFF?style=social&logo=github&label=Follow%20ms-elliott)](https://github.com/ms-elliott)
 - 🏋🏻‍♂️ My recent work : &nbsp;&nbsp; **[MEOW HOME](https://github.com/ms-elliott/meowhome)** (Laravel × Bootstrap × AWS × Docker  etc.)
 - 📚 Currently dive into : &nbsp;&nbsp; **Vue.js** 
 - 💭 Planned next work : &nbsp;&nbsp; **AI Web App** (Python × Vue.js)
-- 🍫 Fun fact : Eating chocolate brings you happiness as effective as you are arounded by 5 hot guys😎   
+- 🍫 Fun fact : Eating chocolate brings you happiness as effective as you are arounded by 5 gorgeous guys😎   
+
+[![Github](https://img.shields.io/badge/--FFFFFF?style=social&logo=github&label=Follow%20ms-elliott)](https://github.com/ms-elliott)
 </div>
-<br><br><br>
 <div align="center" width="50">
   
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ms-elliott&theme=buefy)
+| <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ms-elliott&hide_border=true" alt="GitHub Streak" /></a> | <a href="https://github.com/ms-elliott/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ms-elliott&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ----- | ----- |
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=%20ms-elliott&theme=microsoft&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats) &nbsp;&nbsp;&nbsp; ![language](https://github.com/user-attachments/assets/e33a7bd3-4a6a-4212-b2ff-614653417b4e)
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ms-elliott&theme=buefy)　|
+| ----- |
 
+<!-- <a href="https://github.com/ms-elliott/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ms-elliott&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Eri O's github stats" /></a> -->
 [](
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ms-elliott&theme=buefy)\
 )
 [](
 [![trophy](https://github-profile-trophy.vercel.app/?username=ms-elliott&theme=flat)](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=nord)
 )
-
-<a href=""><img src="https://cultofthepartyparrot.com/parrots/hd/angelparrot.gif" width="50"/></a><a href=""><img src="https://cultofthepartyparrot.com/parrots/hd/angelparrot.gif" width="50"/></a><a href=""><img src="https://cultofthepartyparrot.com/parrots/hd/angelparrot.gif" width="50"/></a><a href=""><img src="https://cultofthepartyparrot.com/parrots/hd/angelparrot.gif" width="50"/></a><a href=""><img src="https://cultofthepartyparrot.com/parrots/hd/angelparrot.gif" width="50"/></a><br>
+<br><br><br>
+<a href=""><img src="https://cultofthepartyparrot.com/parrots/hd/angelparrot.gif" width="70"/></a><a href=""><img src="https://cultofthepartyparrot.com/parrots/hd/angelparrot.gif" width="70"/></a><a href=""><img src="https://cultofthepartyparrot.com/parrots/hd/angelparrot.gif" width="70"/></a><a href=""><img src="https://cultofthepartyparrot.com/parrots/hd/angelparrot.gif" width="70"/></a><a href=""><img src="https://cultofthepartyparrot.com/parrots/hd/angelparrot.gif" width="70"/></a><br>
 [Find your Party Parrot](https://cultofthepartyparrot.com/)
-
 </div>
