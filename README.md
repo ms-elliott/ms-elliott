@@ -1,7 +1,7 @@
 <div align="center" width="50">
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=500&size=38&pause=1000&color=ff1a7e&center=true&vCenter=true&width=900&height=60&lines=Hello+world!;I'm+Eri+O.;Software+engineer+%2F+Web+development+enthusiast)](https://git.io/typing-svg)
-<a href=""><img src="https://github.com/user-attachments/assets/324350a2-d5a6-46ed-a2d3-1ae348b84d3f"/></a>
+<a href=""><img src="https://github.com/user-attachments/assets/5dc2f08b-b12d-498c-b016-665e3d1f2d7d"/></a>
 </div>
 <div width="50">
   
@@ -44,11 +44,13 @@
 <br><br><br>
 <div align="center" width="50">
   
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ms-elliott&theme=gotham)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ms-elliott&theme=buefy)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ms-elliott&theme=gotham) &nbsp;&nbsp;&nbsp; ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ms-elliott&theme=gotham)
+[![GitHub Streak](https://streak-stats.demolab.com?user=%20ms-elliott&theme=microsoft&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats) &nbsp;&nbsp;&nbsp; ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ms-elliott&theme=buefy)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ms-elliott&theme=discord)](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=nord)
+[](
+[![trophy](https://github-profile-trophy.vercel.app/?username=ms-elliott&theme=flat)](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=nord)
+)
 
 <a href=""><img src="https://cultofthepartyparrot.com/parrots/hd/angelparrot.gif" width="50"/></a><a href=""><img src="https://cultofthepartyparrot.com/parrots/hd/angelparrot.gif" width="50"/></a><a href=""><img src="https://cultofthepartyparrot.com/parrots/hd/angelparrot.gif" width="50"/></a><a href=""><img src="https://cultofthepartyparrot.com/parrots/hd/angelparrot.gif" width="50"/></a><a href=""><img src="https://cultofthepartyparrot.com/parrots/hd/angelparrot.gif" width="50"/></a><br>
 [Find your Party Parrot](https://cultofthepartyparrot.com/)
