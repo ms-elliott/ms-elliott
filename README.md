@@ -38,7 +38,7 @@
 - 🏋🏻‍♂️ My recent work : &nbsp;&nbsp; **[MEOW HOME](https://github.com/ms-elliott/meowhome)** (Laravel × Bootstrap × AWS × Docker  etc.)
 - 📚 Currently dive into : &nbsp;&nbsp; **Vue.js** 
 - 💭 Planned next work : &nbsp;&nbsp; **AI Web App** (Python × Vue.js)
-- 🍫 Fun fact : Eating chocolate brings you happiness as effective as you are arounded by 5 gorgeous guys😎   
+- 🍫 Fun fact : &nbsp;&nbsp; Eating chocolate brings you happiness as effective as you are arounded by 5 gorgeous guys😎   
 
 [![Github](https://img.shields.io/badge/--FFFFFF?style=social&logo=github&label=Follow%20ms-elliott)](https://github.com/ms-elliott)
 </div>
