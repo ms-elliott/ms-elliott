@@ -34,6 +34,7 @@
 <a href=""><img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/></a>
 <p>Comming Up   　🔜　<a href=""><img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white"/></a></p>
 
+
 ---
 - 🏋🏻‍♂️ My recent work : &nbsp;&nbsp; **[MEOW HOME](https://github.com/ms-elliott/meowhome)** (Laravel × Bootstrap × AWS × Docker  etc.)
 - 📚 Currently dive into : &nbsp;&nbsp; **Vue.js** 
@@ -44,9 +45,14 @@
 </div>
 <div align="center" width="50">
 
-
-<kbd><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ms-elliott&theme=buefy" /></kbd>  <a href="https://github.com/ms-elliott/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ms-elliott&layout=compact&theme=buefy" /></a><br>
-<kbd><a href="https://github.com/ms-elliott/github-readme-stats"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ms-elliott&theme=buefy" /></a></kbd>
+<table>
+  <tr>
+    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ms-elliott&theme=buefy" /></td> <td><a href="https://github.com/ms-elliott/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ms-elliott&layout=compact&theme=buefy" style="width: 100%;"/></a></td>
+  </tr>
+  <tr>
+    <td colspan="2"><a href="https://github.com/ms-elliott/github-readme-stats"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ms-elliott&theme=buefy" /></a></td>
+  </tr>
+</table>
 
 <!-- <a href="https://github.com/ms-elliott/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ms-elliott&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Eri O's github stats" /></a> -->
 [](
