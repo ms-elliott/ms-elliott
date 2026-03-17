@@ -9,6 +9,7 @@
 <a href=""><img src="https://img.shields.io/badge/C%23(WPF,WinForms)-512BD4?style=flat&logo=cplusplus&logoColor=white"/></a>
 <a href=""><img src="https://img.shields.io/badge/php-777BB4?style=flat&logo=php&logoColor=white"/></a>
 <a href=""><img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=Laravel&logoColor=white"/></a>
+<a href=""><img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white"/></a></p>
 <a href=""><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/></a>
 <a href=""><img src="https://img.shields.io/badge/CSS3-663399?style=flat&logo=css&logoColor=white"/></a>
 <a href=""><img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white"/></a>
@@ -32,7 +33,6 @@
 <a href=""><img src="https://img.shields.io/badge/Apache-D22128?style=flat&logo=apache&logoColor=white"/></a>
 <a href=""><img src="https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white"/></a>
 <a href=""><img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/></a>
-<a href=""><img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white"/></a></p>
 
 
 ---
