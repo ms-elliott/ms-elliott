@@ -32,12 +32,12 @@
 <a href=""><img src="https://img.shields.io/badge/Apache-D22128?style=flat&logo=apache&logoColor=white"/></a>
 <a href=""><img src="https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white"/></a>
 <a href=""><img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/></a>
-<p>Comming Up   　🔜　<a href=""><img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white"/></a></p>
+<a href=""><img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white"/></a></p>
 
 
 ---
 - 🏋🏻‍♂️ My recent work : &nbsp;&nbsp; **[MEOW HOME](https://github.com/ms-elliott/meowhome)** (Laravel × Bootstrap × AWS × Docker  etc.)
-- 📚 Currently dive into : &nbsp;&nbsp; **Vue.js** 
+- 📚 Currently dive into : &nbsp;&nbsp; **TypeScript** 
 - 💭 Planned next work : &nbsp;&nbsp; **AI Web App** (Python × Vue.js)
 - 🍫 Fun fact : &nbsp;&nbsp; Eating chocolate brings you happiness as effective as you are arounded by 5 gorgeous guys😎   
 
