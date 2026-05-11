@@ -41,7 +41,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  **[Avocadocchi](https://github.com/ms-elliott/avocadocchi)** (Python × Vue.js)
 - 📚 Currently dive into : &nbsp;&nbsp; **TypeScript** 
-- 💭 Planned next work : &nbsp;&nbsp; **Web Scraping App** (TypeScript)
+- 💭 Planned next work : &nbsp;&nbsp; **Web Scraping App**  (TypeScript)
 - 🍫 Fun fact : &nbsp;&nbsp; Eating chocolate brings you happiness as effective as you are arounded by 5 gorgeous guys😎   
 
 [![Github](https://img.shields.io/badge/--FFFFFF?style=social&logo=github&label=Follow%20ms-elliott)](https://github.com/ms-elliott)
