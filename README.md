@@ -18,7 +18,7 @@
 <a href=""><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white"/></a>
 <a href=""><img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"/></a>
 <a href=""><img src="https://img.shields.io/badge/VB.net-4682B4?style=flat&logo=vbnet&logoColor=white"/></a>
-<a href=""><img src="https://img.shields.io/badge/VBA-006400?style=flat&logo=vba&logoColor=white"/></a><br>
+<a href=""><img src="https://img.shields.io/badge/VBA-006400?style=flat&logo=vba&logoColor=white"/></a>
 <a href=""><img src="https://img.shields.io/badge/SQL Server-FF0000?style=flat&logo=sqlServer&logoColor=black"/></a>
 <a href=""><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=black"/></a>
 <a href=""><img src="https://img.shields.io/badge/ORACLE db-FF0000?style=flat&logo=oracle&logoColor=black"/></a>
@@ -38,7 +38,7 @@
 
 ---
 - 🏋🏻‍♂️ My recent work : &nbsp;&nbsp; **[MEOW HOME](https://github.com/ms-elliott/meowhome)** (Laravel × Bootstrap × AWS × Docker  etc.)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  **[Avocadocchi](https://github.com/ms-elliott/avocadocchi)** (Python × Vue.js)
 - 📚 Currently dive into : &nbsp;&nbsp; **TypeScript** 
 - 💭 Planned next work : &nbsp;&nbsp; **Web Scraping App**  (TypeScript)
