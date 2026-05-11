@@ -1,6 +1,6 @@
 <div align="center" width="50">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=500&size=38&pause=1000&color=ff1a7e&center=true&vCenter=true&width=900&height=60&lines=Hello+world!;I'm+Eri+O.;Software+engineer+%2F+Web+development+enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=500&size=38&pause=1000&color=ff1a7e&center=true&vCenter=true&width=900&height=60&lines=Hello+world!;I'm+Eri+O.;Software+engineer+%2F+Web+developer)](https://git.io/typing-svg)
 <a href=""><img src="https://github.com/user-attachments/assets/5dc2f08b-b12d-498c-b016-665e3d1f2d7d"/></a>
 </div>
 <div width="50">
@@ -9,12 +9,13 @@
 <a href=""><img src="https://img.shields.io/badge/C%23(WPF,WinForms)-512BD4?style=flat&logo=cplusplus&logoColor=white"/></a>
 <a href=""><img src="https://img.shields.io/badge/php-777BB4?style=flat&logo=php&logoColor=white"/></a>
 <a href=""><img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=Laravel&logoColor=white"/></a>
+<a href=""><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black"/></a>
+<a href=""><img src="https://img.shields.io/badge/TypeScript-4169E1?style=flat&logo=TypeScript&logoColor=white"/></a>
 <a href=""><img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white"/></a>
 <a href=""><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/></a>
 <a href=""><img src="https://img.shields.io/badge/CSS3-663399?style=flat&logo=css&logoColor=white"/></a>
 <a href=""><img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white"/></a>
 <a href=""><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white"/></a>
-<a href=""><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black"/></a>
 <a href=""><img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"/></a>
 <a href=""><img src="https://img.shields.io/badge/VB.net-4682B4?style=flat&logo=vbnet&logoColor=white"/></a>
 <a href=""><img src="https://img.shields.io/badge/VBA-006400?style=flat&logo=vba&logoColor=white"/></a><br>
@@ -36,9 +37,11 @@
 
 
 ---
-- 🏋🏻‍♂️ My recent work : &nbsp;&nbsp; **[MEOW HOME](https://github.com/ms-elliott/meowhome)** (Laravel × Bootstrap × AWS × Docker  etc.)
+- 🏋🏻‍♂️ My recent work : &nbsp;&nbsp; **[MEOW HOME](https://github.com/ms-elliott/meowhome)** (Laravel × Bootstrap × AWS × Docker  etc.)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ **[Avocadocchi](https://github.com/ms-elliott/avocadocchi)** (Python × Vue.js)
 - 📚 Currently dive into : &nbsp;&nbsp; **TypeScript** 
-- 💭 Planned next work : &nbsp;&nbsp; **AI Web App** (Python × Vue.js)
+- 💭 Planned next work : &nbsp;&nbsp; **Web Scraping App** (TypeScript)
 - 🍫 Fun fact : &nbsp;&nbsp; Eating chocolate brings you happiness as effective as you are arounded by 5 gorgeous guys😎   
 
 [![Github](https://img.shields.io/badge/--FFFFFF?style=social&logo=github&label=Follow%20ms-elliott)](https://github.com/ms-elliott)
