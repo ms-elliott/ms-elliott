@@ -38,7 +38,7 @@
 
 ---
 - 🏋🏻‍♂️ My recent work : &nbsp;&nbsp; **[MEOW HOME](https://github.com/ms-elliott/meowhome)** (Laravel × Bootstrap × AWS × Docker  etc.)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  **[Avocadocchi](https://github.com/ms-elliott/avocadocchi)** (Python × Vue.js)
 - 📚 Currently dive into : &nbsp;&nbsp; **TypeScript** 
 - 💭 Planned next work : &nbsp;&nbsp; **Web Scraping App** (TypeScript)
