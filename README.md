@@ -10,6 +10,7 @@
 <a href=""><img src="https://img.shields.io/badge/php-777BB4?style=flat&logo=php&logoColor=white"/></a>
 <a href=""><img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=Laravel&logoColor=white"/></a>
 <a href=""><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black"/></a>
+<a href=""><img src="https://img.shields.io/badge/React-66ccff?style=flat&logo=React&logoColor=white"/></a>
 <a href=""><img src="https://img.shields.io/badge/TypeScript-4169E1?style=flat&logo=TypeScript&logoColor=white"/></a>
 <a href=""><img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white"/></a>
 <a href=""><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/></a>
@@ -39,9 +40,11 @@
 ---
 - 🏋🏻‍♂️ My recent work : &nbsp;&nbsp; **[MEOW HOME](https://github.com/ms-elliott/meowhome)** (Laravel × Bootstrap × AWS × Docker  etc.)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- **[Avocadocchi](https://github.com/ms-elliott/avocadocchi)** (Python × Vue.js)
-- 📚 Currently dive into : &nbsp;&nbsp; **TypeScript** 
-- 💭 Planned next work : &nbsp;&nbsp; **[Typescript API App](https://github.com/ms-elliott/coco-weather)**  (TypeScript × Vue.js)
+ **[Avocadocchi](https://github.com/ms-elliott/avocadocchi)** (Python × Vue.js)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ **[Coco-weather](https://github.com/ms-elliott/coco-weather)**  (TypeScript × Vue.js × data combining from multiple API)
+- 📚 Currently dive into : &nbsp;&nbsp; **React** 
+- 💭 Planned next work : &nbsp;&nbsp; **React App**
 - 🍫 Fun fact : &nbsp;&nbsp; Eating chocolate brings you happiness as effective as you are arounded by 5 gorgeous guys😎   
 
 [![Github](https://img.shields.io/badge/--FFFFFF?style=social&logo=github&label=Follow%20ms-elliott)](https://github.com/ms-elliott)
